@@ -28,3 +28,5 @@ A key highlight of my work is an **Alzheimer's Detection System** built using Py
 * **Impact:** Preprocessed data and optimized model performance using precision and recall metrics to ensure reliability in healthcare applications.
 
 ---
+
+#TO SEE THE VIDEO CLICK ON "VIEW RAW" under "self intro.mp4"
